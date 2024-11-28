@@ -1,0 +1,15 @@
+h1{
+    color: white;
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 3rem;
+    margin-bottom: 15px;
+}
+
+.title {
+    color: #fff;
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 1.5rem;
+    margin-top: 0px;
+}
